@@ -1,0 +1,79 @@
+{
+  "title": "Nvim shortcuts",
+  "shortcuts": [
+    {
+      "keys": "[d",
+      "description": "goto next diagnostic"
+    },
+    {
+      "keys": "]d",
+      "description": "goto prev diagnostic"
+    },
+    {
+      "keys": "<leader>e",
+      "description": "diagnostic open float"
+    },
+    {
+      "keys": "<leader>q",
+      "description": "diagnostic set location list"
+    },
+
+    {
+      "keys": "<leader>ff",
+      "description": "fuzzy find file list"
+    },
+    {
+      "keys": "<leader>fb",
+      "description": "fuzzy find buffers list"
+    },
+    {
+      "keys": "<leader>fg",
+      "description": "fuzzy find grep pattern"
+    },
+
+    {
+      "keys": "]m",
+      "description": "goto next start function outter"
+    },
+    {
+      "keys": "]M",
+      "description": "goto next end function outter"
+    },
+    {
+      "keys": "[m",
+      "description": "goto prev start function outter"
+    },
+    {
+      "keys": "[M",
+      "description": "goto prev end function outter"
+    },
+    {
+      "keys": "<leader>rn",
+      "description": "[R]e[n]ame"
+    },
+    {
+      "keys": "<leader>ca",
+      "description": "[C]ode [Action]"
+    },
+    {
+      "keys": "gd",
+      "description": "[G]oto [D]efinition"
+    },
+    {
+      "keys": "gr",
+      "description": "[G]oto [R]eferences"
+    },
+    {
+      "keys": "gI",
+      "description": "[G]oto [I]mplementation"
+    },
+    {
+      "keys": "gD",
+      "description": "[G]oto [D]eclaration"
+    },
+    {
+      "keys": "dw",
+      "description": "Delete word"
+    }
+  ]
+}
